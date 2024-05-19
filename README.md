@@ -1,50 +1,47 @@
-# Welcome to your Expo app 👋
+<div align="center">
+  <br />
+    <a href="https://youtu.be/ZBCUegTZF7M?si=ubt0vk70lSjt6DCs" target="_blank">
+      <img src="https://i.postimg.cc/5NR9bxFM/Sora-README.png" alt="Project Banner">
+    </a>
+  <br />
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+  <div></div>
 
-## Get started
+  <h3 align="center">视频分享应用</h3>
 
-1. Install dependencies
+   <div align="center"></div>
+</div>
 
-   ```bash
-   npm install
-   ```
+# 简介
 
-2. Start the app
+该应用程序采用 React Native 构建，提供无缝的用户体验，Animatable 提供迷人的动画，展示了令人印象深刻的设计和功能。
 
-   ```bash
-    npx expo start
-   ```
+## 技术栈
 
-In the output, you'll find options to open the app in a
+- React Native
+- Expo
+- Animatable
+- Typescript
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 特点
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+👉 **打开应用**: 引人入胜的图形和清晰的说明欢迎用户使用该应用程序。
 
-## Get a fresh project
+👉 **带有动画平面列表的动态主屏幕**: 流畅的动画平面列表展示最新视频，以便无缝浏览。
 
-When you're ready, run:
+👉 **刷新功能**: 用户可以通过简单的拉动手势刷新内容以获取最新信息。
 
-```bash
-npm run reset-project
-```
+👉 **全文搜索功能**: 通过输入想看的内容有效地搜索视频。
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+👉 **选项卡导航**: 使用选项卡导航轻松在首页、创建和简介等部分之间导航。
 
-## Learn more
+👉 **用于上传媒体**: 直接从具有集成媒体选择的应用程序上传视频和图像帖子。
 
-To learn more about developing your project with Expo, look at the following resources:
+👉 **具有详细见解的个人资料屏幕**: 查看帐户详细信息和活动，包括上传的视频，以获得个性化体验。
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+👉 **响应能力**: 跨各种设备和屏幕尺寸的流畅性能和适应性，以提供一致的用户体验。
 
-## Join the community
+👉 **动画**: 使用 Animatable 库的动态动画可增强整个应用程序 UI 中的用户交互和参与度。
 
-Join our community of developers creating universal apps.
+还有代码的可重用性，包括一些通用的组件，如空状态、按钮、输入框，加载中，视频播放等。这个应用程序的设计和功能都十分强大。
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
