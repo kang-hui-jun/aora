@@ -1,8 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/ZBCUegTZF7M?si=ubt0vk70lSjt6DCs" target="_blank">
-      <img src="https://i.postimg.cc/5NR9bxFM/Sora-README.png" alt="Project Banner">
-    </a>
+      <img src="./assets/readme.png" alt="Project Banner">
   <br />
 
   <div></div>
@@ -22,6 +20,7 @@
 - Expo
 - Animatable
 - Typescript
+- Express
 
 ## 特点
 
@@ -44,4 +43,3 @@
 👉 **动画**: 使用 Animatable 库的动态动画可增强整个应用程序 UI 中的用户交互和参与度。
 
 还有代码的可重用性，包括一些通用的组件，如空状态、按钮、输入框，加载中，视频播放等。这个应用程序的设计和功能都十分强大。
-
